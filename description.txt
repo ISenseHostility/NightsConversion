@@ -1,0 +1,7 @@
+What is Night's Conversion?
+Night's Conversion allows you to use the properties of every sword that went into the Night's Edge. When using Night's Conversion, you can craft 3 new swords, each of which have some relation to one of the swords that went into the Night's Edge. The regular Night's Edge is assumed to be the Light's Bane version for this mod.
+
+What does Night's Conversion add?
+The first sword added is the Night's Katana. The Night's Katana has the added ability of autoswing, inherited from the Muramasa. While swinging the sword, monster spawns are also increased, due to the fact that you receive the Water Candle debuff.
+The second sword added is the Night's Jungle. The Night's Jungle has the ability to poison enemies on contact, inherited from the Blade of Grass. Unlike the Blade of Grass, the Poisoned debuff is applied 100% of the time and lasts for 3 seconds.
+The third sword added is the Night's Flame. The Night's Flame has the ability to burn enemies on contact, inherited from the Fiery Greatsword. The On Fire! debuff is always applied for 3 seconds.

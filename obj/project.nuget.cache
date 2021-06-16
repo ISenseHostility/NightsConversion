@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wXuZAssItYY2H8LLTztidrGoWehWegk2aifJ8OvH/DxqiPTUEvKUhWD4aThK3my2hvfMLEMejlL5VSeaByGFdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saxja\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\NightsConversion\\NightsConversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saxja\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

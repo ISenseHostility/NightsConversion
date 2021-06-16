@@ -1,0 +1,3 @@
+displayName = Night's Conversion
+author = ISenseHostility
+version = 1.0
